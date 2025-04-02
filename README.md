@@ -6,4 +6,4 @@ I have been collaborating with Prof. Feng Xu @ THU and Prof. Shuang Zhao @ UIUC 
 
 ----
 
-**29 March, 2025** - **My first-author technical paper has been conditionally accepted to SIGGRAPH 2025 (conference track)!** This has never happened in the history of *undergraduate graphics research* at Tsinghua University. Please stay tuned, the paper and code will be released soon.
+**29 March, 2025** - **My first-author technical paper has been conditionally accepted to SIGGRAPH 2025 (conference track)!**
